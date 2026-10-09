@@ -179,3 +179,9 @@ Eulerian Path: true
 ## 📚 Concepts Covered
 
 `Graph Theory` · `Discrete Mathematics` · `Adjacency Matrix` · `Incidence Matrix` · `DFS` · `Matrix Multiplication` · `Eulerian Path` · `Cycle Detection`
+
+---
+
+## Author
+
+Tasneem Ibrahim
