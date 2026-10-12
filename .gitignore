@@ -1,0 +1,11 @@
+*.class
+.idea/
+*.iml
+out/
+
+*.rar
+__pycache__/
+.venv*/
+venv*/
+.vscode/
+.idea/
